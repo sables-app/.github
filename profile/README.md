@@ -8,7 +8,7 @@ _Building software that removes friction so you can focus on what's next._
 
 </div>
 
-## Project: Knyt
+## Public Project: [Knyt](https://knyt.dev)
 
 Knyt is a modular toolkit built on web standards. From components that work in any framework to a powerful server plugin for Bun.
 
